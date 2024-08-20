@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+
+header {
+    width: 376px;
+    height: 42px;
+    color: #5d5d7d;
+}
+
+h1 {
+    width: 368px;
+    height: 160px;
+    weight: 400px;
+    size: 70px;
+    color: #5d5d7d;
+}
+
+section {
+    display: inline-block;
+}
+p {
+    width: 540px;
+    height: 144px;
+    weight: 400;
+    size: 28px;
+    color: #5d5d7d;
+}
