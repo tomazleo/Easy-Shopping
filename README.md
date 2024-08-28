@@ -1,5 +1,5 @@
 <h1>
-  Neste porjeto eu pratiquei meu HTML e CSS. E aprendi a fazer a responcividade dele nas aulas do <a>DevClub</a>
+  Neste porjeto eu pratiquei meu HTML e CSS. E aprendi a fazer a responsividade dele nas aulas do <a>DevClub</a>
 </h1>
 <h2>
   tecnologias usadas neste projeto 
